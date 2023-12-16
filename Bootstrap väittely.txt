@@ -1,0 +1,20 @@
+Bootstrap hyvä
+Väitteet:
+- Nopeuttaa Designissa (Cards, Albums jne.)
+- Helpompi tehä sivusta responsiivinen 
+- Nettisivusi on helppo saada ns"proffesionial" näköiseksi
+Tuomarit:
+Piia Portfoliosivu, Kirsi Kiireinen, Pete Perussiisti 
+
+Boostrap huono
+Väitteet:
+- Vähemmän kontrollia omasta koodista
+- Suurempi riski bugeihin
+- Voi kehittyä huonommaksi koodajaksi jos osaa koodata vain apuvälineillä
+Tuomarit:
+Minna Monimutkainensivu, Ykä Yksilöllinen 
+
+Yhteenveto:
+Bootstrap on hyvä nettisivuihin joissa yksilöllinen ulkonäkö ei ole tärkeä ja skaala on pieni esim. ajanvaraussivu omaan siivous-
+firmaan, tai oma blogisivu. Monimutkaisiin sivuihin mihin tarvitsee paljon itse suunniteltuja elementtejä esim. peli sivu, iso sivu 
+kuten you-tube kannattaa koodi tehtä alusta asti itse.
