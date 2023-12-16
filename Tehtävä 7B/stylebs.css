@@ -1,0 +1,86 @@
+
+.row {
+    margin-bottom: 20px;
+}
+
+#sidebar {
+    border-right:white 3px solid;
+    margin-right: 20px;
+}
+
+.carousel-inner, .carousel-item{
+    height: 300px;
+
+}
+.carousel-item p{
+    color: white;
+    
+}
+#myCarousel{
+    border: solid 3px white;
+    
+}
+
+.button{
+    background-color: rgba(254, 187, 204);
+    color: white;
+}
+
+.card-body{
+    border: white 3px solid;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.596);
+}
+
+html, body, main,  #sidebar{
+    background-color: rgb(254, 187, 204);
+}
+
+a, p, li, strong{
+    font-weight:600;
+	font-family: 'Montserrat', sans-serif;
+    color:rgb(140, 26, 106);
+
+}
+
+label {
+    font-weight:500;
+	font-family: 'Montserrat', sans-serif;
+    color:black;
+
+
+}
+
+form {
+    background-color: rgba(255, 255, 255, 0.781);
+    padding: 10px;
+    border: solid white 3px;
+    border-radius: 15px;
+}
+
+.card-body p, li{
+    color: black;
+}
+
+h1, h2, h3, span, .nav-item, .nav-link{
+    color:rgb(140, 26, 106);
+    font-family: 'Poiret One', sans-serif;
+    font-size: 30px;
+
+}
+
+.nav {
+    --bs-nav-link-color: rgb(140, 26, 106);
+
+}
+
+.btn-outline-primary{
+    border: rgb(140, 26, 106) solid 1px;
+}
+
+#articlebox{
+    background-color: rgba(255, 255, 255, 0.781);
+
+}
+
+
