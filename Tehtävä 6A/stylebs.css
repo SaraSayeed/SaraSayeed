@@ -4,6 +4,7 @@
 }
 
 #sidebar {
+    background-color: rgba(255, 255, 255, 0.781);
     border-right:white 3px solid;
     margin-right: 20px;
 }
@@ -32,7 +33,7 @@
     background-color: rgba(255, 255, 255, 0.596);
 }
 
-html, body, main,  #sidebar{
+html, body, main{
     background-color: rgb(254, 187, 204);
 }
 
