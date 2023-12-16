@@ -69,6 +69,15 @@ h1, h2, h3, span, .nav-item, .nav-link{
 
 }
 
+article {
+    line-height: 30px;
+    padding: 10px;
+    border: solid white 3px;
+    border-radius: 15px;
+    background-color: rgba(255, 255, 255, 0.781);
+
+}
+
 .nav {
     --bs-nav-link-color: rgb(140, 26, 106);
 
